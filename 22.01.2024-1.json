@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Ruiz",
+    "age": 97,
+    "address": {
+        "street": "Adams Expressway",
+        "city": "East Brandi",
+        "state": "Kansas",
+        "zip": "01510"
+    },
+    "contact": {
+        "phone": "461-541-7507x8831",
+        "servicePhone": "800357379"
+    },
+    "birthday": "1928-09-05",
+    "ip": "209.180.89.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Tend out morning conference stock become. Month table his next able meet test. Democrat language save continue above image.",
+        "bio": "Else result quite loss step tax. Concern economic guy rate show.\nContinue result station prove today. Machine yet support. Attack it service play somebody budget pressure."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
