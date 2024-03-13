@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Burke",
+    "age": 111,
+    "address": {
+        "street": "Mark Viaduct",
+        "city": "Russellfurt",
+        "state": "Hawaii",
+        "zip": "11423"
+    },
+    "contact": {
+        "phone": "7147108172",
+        "servicePhone": "800980964"
+    },
+    "birthday": "1914-04-05",
+    "ip": "208.17.45.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Bill later or bill age.\nQuality trouble million attack. Daughter onto know miss some. Method investment change owner.\nWater out explain I recognize total.",
+        "bio": "Prove industry as three. Meeting reflect degree second.\nBe civil kid seem market full room pattern. Simply assume figure official parent usually might."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
