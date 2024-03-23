@@ -1,0 +1,25 @@
+{
+    "name": "Allen Bryan",
+    "age": 37,
+    "address": {
+        "street": "Solis Ways",
+        "city": "West Davidhaven",
+        "state": "North Carolina",
+        "zip": "82756"
+    },
+    "contact": {
+        "phone": "765-849-4028x17814",
+        "servicePhone": "800207665"
+    },
+    "birthday": "1988-13-02",
+    "ip": "100.141.16.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Write time go remain rather. Behavior society campaign out want. Future set reflect indeed away.",
+        "bio": "South care condition member you public federal. Professional economy almost out. Example behind admit deal."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
