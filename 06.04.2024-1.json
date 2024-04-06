@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Hernandez",
+    "age": 61,
+    "address": {
+        "street": "Timothy Grove",
+        "city": "East Deborahfurt",
+        "state": "Michigan",
+        "zip": "84791"
+    },
+    "contact": {
+        "phone": "985.387.6975",
+        "servicePhone": "800793436"
+    },
+    "birthday": "1964-21-01",
+    "ip": "65.139.239.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Cover environmental upon name human. Area thus throughout standard land.\nAvoid fear tough large represent order. Western for movie land walk contain range. Well manage interview plan pattern.",
+        "bio": "Structure special process test without page partner quite. Light security large trial structure design debate."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
