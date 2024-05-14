@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Karen Allen DDS",
+    "age": 2,
+    "address": {
+        "street": "Casey Motorway",
+        "city": "West Kelsey",
+        "state": "Michigan",
+        "zip": "99184"
+    },
+    "contact": {
+        "phone": "393-465-1451",
+        "servicePhone": "800281619"
+    },
+    "birthday": "2023-13-02",
+    "ip": "185.130.117.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Group door ago light father. Trouble remember old situation bar. Involve area never ball.\nPlan beat very catch anything second. Able maintain win help. Big watch dream page decision career skin.",
+        "bio": "Need stay likely. There policy student window national. Open in increase choice grow anyone team."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
