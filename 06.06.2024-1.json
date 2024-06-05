@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Williams",
+    "age": 62,
+    "address": {
+        "street": "Kimberly Cliff",
+        "city": "Jennifertown",
+        "state": "Pennsylvania",
+        "zip": "23341"
+    },
+    "contact": {
+        "phone": "208-218-6272x0282",
+        "servicePhone": "800197536"
+    },
+    "birthday": "1963-07-09",
+    "ip": "142.103.190.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring two call financial religious him outside. Watch and expert whose. See indeed property.",
+        "bio": "Each score statement he. Quite news responsibility performance tax cover keep.\nSee field word over close. Enough likely save security he very cut."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
