@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Sanchez",
+    "age": 110,
+    "address": {
+        "street": "Travis Mill",
+        "city": "Lake Heathertown",
+        "state": "Alabama",
+        "zip": "16818"
+    },
+    "contact": {
+        "phone": "+1-879-318-7463x7111",
+        "servicePhone": "800421157"
+    },
+    "birthday": "1915-19-04",
+    "ip": "56.149.103.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Parent well hard. Knowledge evening on water somebody trial management.\nBrother know often voice ok especially similar. Worry test most and. Enough three eat call before no gun.",
+        "bio": "Serve fly everybody sometimes from particularly father. Image positive standard north or. Officer quite laugh at.\nAction nearly though way choice morning recent. Fire bar per beautiful which."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
