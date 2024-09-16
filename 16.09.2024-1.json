@@ -1,0 +1,25 @@
+{
+    "name": "Bethany Velasquez",
+    "age": 12,
+    "address": {
+        "street": "Good Loop",
+        "city": "Lake Christian",
+        "state": "Missouri",
+        "zip": "66498"
+    },
+    "contact": {
+        "phone": "626.736.6908x75549",
+        "servicePhone": "800109208"
+    },
+    "birthday": "2013-19-10",
+    "ip": "76.252.50.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Once win kid company one. Work already dark agreement. Relate issue eat television bar enter.\nHand same somebody certain. Fact forget series gun. Knowledge improve check run protect item.",
+        "bio": "Everyone purpose southern administration someone itself feeling. Become policy fund value."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
