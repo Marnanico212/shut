@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Pamela Juarez MD",
+    "age": 97,
+    "address": {
+        "street": "Jennifer Plaza",
+        "city": "East Suzanne",
+        "state": "Michigan",
+        "zip": "90111"
+    },
+    "contact": {
+        "phone": "(503)795-1920",
+        "servicePhone": "800719671"
+    },
+    "birthday": "1928-10-02",
+    "ip": "106.234.6.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager bill bag sure likely job. Table front billion help. My stay evening growth week.\nCertain experience institution election government vote market. Still many customer. Force imagine city find.",
+        "bio": "Reflect same actually sort. Thank recent it other center.\nWest especially continue society Mrs history. Me call evening daughter federal ready. Fly much environmental compare everyone those."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
