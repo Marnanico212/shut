@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Hernandez MD",
+    "age": 107,
+    "address": {
+        "street": "Miller Overpass",
+        "city": "New Michellebury",
+        "state": "California",
+        "zip": "29350"
+    },
+    "contact": {
+        "phone": "401.205.1436",
+        "servicePhone": "800503276"
+    },
+    "birthday": "1918-23-08",
+    "ip": "152.217.94.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Street blue a her not. Major project event.\nFinally exactly use. Myself building forget life clearly. Least writer head interview.\nWoman itself would.",
+        "bio": "Step trip executive eight interesting light test. Hair ask show nearly. Hope need third young executive whole.\nThose include year determine able. Fear look laugh Congress our."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
