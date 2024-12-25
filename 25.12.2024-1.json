@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Hicks",
+    "age": 53,
+    "address": {
+        "street": "Smith Place",
+        "city": "Kevinfurt",
+        "state": "Texas",
+        "zip": "19516"
+    },
+    "contact": {
+        "phone": "6417746273",
+        "servicePhone": "800749050"
+    },
+    "birthday": "1972-12-03",
+    "ip": "142.135.209.168",
+    "foo": "bar",
+    "profile": {
+        "about": "In talk technology start customer yourself. Nearly second main although fund stuff enter. Attorney talk truth both also meet consumer change.",
+        "bio": "Magazine high society within early at herself. Speak simply number. Country easy series. Name cultural middle Mrs drug.\nHere toward wonder line. Its other although across."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
