@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Miller",
+    "age": 56,
+    "address": {
+        "street": "Dana Knoll",
+        "city": "West Lindsey",
+        "state": "Arizona",
+        "zip": "55750"
+    },
+    "contact": {
+        "phone": "703-288-0519x74266",
+        "servicePhone": "800698459"
+    },
+    "birthday": "1969-11-09",
+    "ip": "25.131.12.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear good expert. Region local side hit site. Garden sound wonder provide.",
+        "bio": "Movement fear knowledge. Air make which environmental. Again similar information.\nOffer pay certain herself amount after. Organization well live leader political you art."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
